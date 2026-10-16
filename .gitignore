@@ -1,0 +1,10 @@
+# Programa compilado y datos de cada persona (equipos.txt, ajustes.txt con el código de Telegram, registros/).
+programa/
+*.exe
+
+# Archivos temporales de Windows y editores.
+Thumbs.db
+desktop.ini
+.vs/
+*.suo
+*.user
